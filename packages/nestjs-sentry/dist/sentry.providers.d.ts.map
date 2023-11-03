@@ -1,0 +1,1 @@
+{"version":3,"file":"sentry.providers.d.ts","sourceRoot":"","sources":["../lib/sentry.providers.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,gBAAgB,CAAC;AAC1C,OAAO,EAAE,mBAAmB,EAAE,MAAM,qBAAqB,CAAC;AAI1D,wBAAgB,qBAAqB,CAAC,OAAO,EAAE,mBAAmB,GAAG,QAAQ,CAK5E"}

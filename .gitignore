@@ -16,7 +16,7 @@ test-schema.graphql
 *.test-definitions.ts
 
 # dist no longer gets checked in
-packages/**/dist
+#packages/**/dist
 **/*.tsbuildinfo
 
 *.log
