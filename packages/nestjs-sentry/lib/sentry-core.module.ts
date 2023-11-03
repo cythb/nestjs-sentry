@@ -29,10 +29,10 @@ export class SentryCoreModule {
     };
 
     return {
-      exports: [provider, SentryService],
+      exports: [provider],
       imports: options.imports,
       module: SentryCoreModule,
-      providers: [...this.createAsyncProviders(options), provider, SentryService]
+      providers: [...this.createAsyncProviders(options), provider]
     };
   }
 
